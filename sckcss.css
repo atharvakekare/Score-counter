@@ -1,0 +1,77 @@
+body{
+     
+    background: linear-gradient(to left, #b41919 50%, #0d0dad 50%);
+     
+    
+}
+    
+#p1display{
+    position:relative;
+    color: aliceblue;
+    align-items: center;
+    font-size: 300px;
+    padding-left: 420px;
+    margin-top: 30px;
+}
+#p2display{
+    position:relative;
+    color: aliceblue;
+    align-items: center;
+    font-size: 300px;
+    padding-left: 350px;
+}
+#p1button{
+    background-color: antiquewhite ;
+    color: black;
+    width: 150px;
+    height: 50px;
+    margin-left:460px ;
+    margin-top: 250px;
+    
+}
+#p2button{
+    background-color: antiquewhite;
+    color: black;
+    width: 150px;
+    height: 50px;
+    margin-left: 210px;
+    
+}
+#reset{
+    background-color: rgb(241, 238, 234);
+    color: black;
+    width: 150px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+#player1{
+    position: relative;
+    width:200px;
+    height: 50px;
+    margin-inline-start: 200px;
+    text-align: center;
+    margin-inline-end: 400px;
+    margin-left: 395px;
+    font-size: large;
+
+
+    
+}
+#player2{
+    position: relative;
+    width:200px;
+    height: 50px;
+    
+    text-align: center;
+    margin-inline-start: 900px;
+    margin-bottom: -100px;
+    margin-left: -70px;
+    margin-right:100px;
+    font-size: large;
+    
+    
+
+
+    
+}
